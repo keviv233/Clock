@@ -2,6 +2,8 @@
 
 **The Clock project is a web application that displays a clock watch with hour, minute, and second arrows. The arrows rotate according to the current time, providing a visual representation of the current time.**
 
+> [Run The Project](https://vivek-chhabra.github.io/Clock/)
+
 <br>
 
 ## ✨ Features
